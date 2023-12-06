@@ -1,0 +1,114 @@
+/* Size for brand */
+.page {
+    text-align: center;
+    background-color: #E6E6FA;
+}
+
+.text-muted {
+    font-size: 20px;
+}
+
+row text-center {
+    text-align: center;  
+}
+
+.Paragraph{
+    width: 90%;
+    margin: 3% auto;
+}
+
+.KAI {
+    width: 90%;
+    margin: 1% auto;
+    overflow: hidden;
+}
+
+.Research_Content{
+    float: left;
+    width: 60%;
+    margin: 1% auto;
+}
+
+.product{
+    float: right;
+    width: 40%;
+    margin: 1% auto;
+}
+
+.paragraph {
+    width: 80%;
+    margin: 1% auto;
+    overflow: hidden;
+}
+
+nav .navbar-brand
+{
+    font-size: xx-large;
+}
+
+/* Colors for brand */
+nav .navbar-brand .blue
+{
+    color: #537fbe;
+}
+
+nav .navbar-brand .black
+{
+    color: black;
+}
+
+#name {
+    font-family: monospace;
+    font-size: 60px;
+    text-emphasis: underline;
+    color: #537fbe;
+}
+
+.about {
+    font-family: Helvetica, sans-serif;
+    font-size: 30px;
+    text-shadow: 2px 2px;
+}
+
+.about_product {
+    font-family: Helvetica, sans-serif;
+    font-size: 30px;
+
+}
+
+h1 {
+    color: #5967ff;
+}
+
+td {
+    font-size: 20px;
+    color: #808080;
+}
+
+#topic {
+    font-size: 22px;
+    color: #5967ff;
+}
+
+#contact {
+    font-size: 20px;
+    color: red;
+}
+
+#tool {
+    font-size: 22px;
+    color: #5967ff;
+}
+
+.topic {
+    font-size: 22px;
+}
+
+.nav-link {
+    color: black;
+}
+
+#figure {
+    font-size: 22px;
+    color: #5967ff;
+}
